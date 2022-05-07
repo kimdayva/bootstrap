@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	max-width: 95%;
+	margin: auto;
+}
+
+footer {
+	background-color: whitesmoke;
+	color: darkgray;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: darkturquoise;
+	font-weight: bold;
+}
+
+.vault {
+	color: darkgray;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 30px;
+	padding-top: 10px;
+	letter-spacing: 2px;
+}
+
+.stickyText {
+	color: darkgray;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	letter-spacing: 2px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.desk {
+	color: darkgray;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	letter-spacing: 2px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.planner {
+	color: darkgray;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	letter-spacing: 2px;
+	font-size: 50px;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.design {
+	background-color: teal;
+}
+
+.cards {
+	text-align: center;
+}
+
+.stickers {
+	padding-top: 30px;
+}
+
+.stickers2 {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.space {
+	padding-top: 20px;
+}
